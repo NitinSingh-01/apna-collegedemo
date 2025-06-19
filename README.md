@@ -2,4 +2,4 @@
 <br>
 this is my first github  repo
 <br> 
-name- Nitin Raghuvanshi
+name- Nitin (thakur);
